@@ -1,4 +1,4 @@
-// simple game economy system. mit licensed.
+// simple game economy system. BOOST licensed.
 // - rlyeh ~~ listening to last ninja 2 / matt gray
 
 #include <chrono>
