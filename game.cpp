@@ -1,4 +1,4 @@
-// simple game economy system. BOOST licensed.
+// simple game economy system. ZLIB/LibPNG licensed.
 // - rlyeh ~~ listening to last ninja 2 / matt gray
 
 #include <chrono>
